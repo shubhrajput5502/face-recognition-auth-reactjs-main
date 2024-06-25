@@ -1,4 +1,4 @@
-const BACKEND_URL = 'http://localhost:9000'
+const BACKEND_URL = 'https://face-auth-backend.onrender.com'
 
 // BASE AUTH
 const AUTH_URL = '/api/auth'
